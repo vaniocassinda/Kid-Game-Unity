@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Splash.unity
+    guid: b3285b9874dd6744988d25d521792ad4
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d11fd816ee5f9a64381f2d37638bf4b6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 03c5cc7f6836656478f14305c50be621
+  - enabled: 1
+    path: Assets/Scenes/MenusCENE.unity
+    guid: 88e32889721d1ec4e8203c4669924283
+  - enabled: 1
+    path: Assets/Scenes/Math/TocaBalao.unity
+    guid: c039098e61fc9d0458f91289628b028c
+  - enabled: 1
+    path: Assets/Scenes/Math/Letras.unity
+    guid: 4ca17ebf5ef9513419c3d51c791b1866
+  - enabled: 1
+    path: Assets/Scenes/L1.unity
+    guid: 79aebab709ce6db478212e07abe45643
+  - enabled: 1
+    path: Assets/Scenes/L2.unity
+    guid: 70a25a0f63764c94db083c60d26f145b
+  - enabled: 1
+    path: Assets/Scenes/L3.unity
+    guid: 7ed373f34a630d94d96404003cfff625
+  - enabled: 1
+    path: Assets/Scenes/L4.unity
+    guid: 4f9b119cda615614ead5a6195d1909e2
+  - enabled: 1
+    path: Assets/Scenes/L5.unity
+    guid: dff575c4eb6111b4d89f7d33a0cb825e
+  - enabled: 1
+    path: Assets/Scenes/L6.unity
+    guid: bfce210779b42e540ab6f0c18fb5c3fd
+  - enabled: 1
+    path: Assets/Scenes/L7.unity
+    guid: c25fc64ed4f540341af8879565288c48
+  - enabled: 1
+    path: Assets/Scenes/L8.unity
+    guid: 8de4729989a7e03478e0bb504469c14e
+  - enabled: 1
+    path: Assets/Scenes/L9.unity
+    guid: d018d5081df75ab408b8026ee704ddf1
+  - enabled: 1
+    path: Assets/Scenes/L10.unity
+    guid: e90edba6b9910404eb5c1358434237b9
+  - enabled: 1
+    path: Assets/Scenes/GameQuiz.unity
+    guid: 65cef9857c793d44688a43cd9362e026
+  - enabled: 1
+    path: Assets/Scenes/NL10.unity
+    guid: 90217714f194007459669a6f8362207b
+  - enabled: 1
+    path: Assets/Scenes/Math/SomarScene.unity
+    guid: 9cf58615d6dbc7a45b107fb189919d95
+  m_configObjects: {}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 2c1c8829309b6744197ebd1facbdaa1a, type: 3}
+    answer: "Ma\xE7\xE3"
+  - questionImage: {fileID: 21300000, guid: 37bc6100eac2b984e93f2c8b3ecce22c, type: 3}
+    answer: Banana
+  - questionImage: {fileID: 21300000, guid: dc23d2c0e1a060c458d42abcea81363d, type: 3}
+    answer: Gato
+  - questionImage: {fileID: 21300000, guid: 52015da91478a0e4f848d4a4c9524982, type: 3}
+    answer: "Tubar\xE3o"
+  - questionImage: {fileID: 21300000, guid: 0f223e223ad7a4b429a355a636a7c795, type: 3}
+    answer: Cereja
+  - questionImage: {fileID: 21300000, guid: ad1e43dec4b69af409a39f5d63f14fd7, type: 3}
+    answer: Pato
+  - questionImage: {fileID: 21300000, guid: e51f59dfa92419540a2c44efc18706a6, type: 3}
+    answer: "C\xE3o"
+  - questionImage: {fileID: 21300000, guid: 968be0b1f0055254e922e7f58523163e, type: 3}
+    answer: "\xC1guia"
+  - questionImage: {fileID: 21300000, guid: 0ef3e87b64651114796a90a3b735723e, type: 3}
+    answer: Kiwi
+  - questionImage: {fileID: 21300000, guid: 3b84b9e07d8e0184abe032ad31250cfe, type: 3}
+    answer: Uva
